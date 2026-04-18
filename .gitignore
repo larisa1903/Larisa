@@ -1,0 +1,16 @@
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.opendb
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+word_frequencies.csv
+results/

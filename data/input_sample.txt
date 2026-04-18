@@ -1,0 +1,6 @@
+Text processing is useful for large documents.
+This project counts word frequencies from a text file.
+Parallel programming can improve performance when the input is large.
+The sequential version is the baseline for OpenMP and std thread implementations.
+Text, text, and more text: words are normalized before counting.
+The file contains repeated words so the frequency table can be checked easily.
